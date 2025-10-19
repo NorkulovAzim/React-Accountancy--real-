@@ -1,4 +1,4 @@
-import logo from "../assets/logo.svg";
+import Logo from "../assets/logo.svg";
 
 const Header = () => {
   return (
@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="container">
         <div className="navbar">
           <a href="#">
-            <img src={logo} alt="" />
+            <img src={Logo} alt="" />
           </a>
 
           <div className="nav-links">
