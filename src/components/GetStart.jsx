@@ -1,4 +1,4 @@
-import Paper from "../assets/Paper.svg";
+import Paper from "../assets/paper.svg";
 
 const GetStart = () => {
   return (
